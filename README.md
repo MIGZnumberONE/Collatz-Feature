@@ -1,7 +1,7 @@
-🧠 Über das Collatz Problem
-"Nimm eine beliebige natürliche Zahl.
-Wenn sie gerade ist, teile sie durch 2.
-Wenn sie ungerade ist, multipliziere sie mit 3 und addiere 1.
+🧠 Über das Collatz Problem <br>
+"Nimm eine beliebige natürliche Zahl. <br>
+Wenn sie gerade ist, teile sie durch 2. <br>
+Wenn sie ungerade ist, multipliziere sie mit 3 und addiere 1. <br>
 Wiederhole diesen Vorgang und du wirst irgendwann bei 1 ankommen."
 
 Obwohl dies für alle getesteten Zahlen zu stimmen scheint, ist es nicht bewiesen – ein großes offenes Problem der Mathematik!
