@@ -4,7 +4,6 @@ Wenn sie gerade ist, teile sie durch 2. <br>
 Wenn sie ungerade ist, multipliziere sie mit 3 und addiere 1. <br>
 Wiederhole diesen Vorgang und du wirst irgendwann bei 1 ankommen."
 
-Obwohl dies für alle getesteten Zahlen zu stimmen scheint, ist es nicht bewiesen – ein großes offenes Problem der Mathematik!
 # 🔢 Collatz Analyse & Visualisierung (Python)
 Dieses Python-Projekt berechnet das 3n+1 Problem (auch bekannt als Collatz Folge)
 
