@@ -10,11 +10,11 @@ Dieses Python-Projekt berechnet das 3n+1 Problem (auch bekannt als Collatz Folge
 
 ## 🚀 Funktionen
 - Berechnung Collatz Folge für beliebige Startzahl
-- Ausgabe jeder Zahl der Folge **untereinander**
+- Ausgabe jeder Zahl der Folge
 - Anzeige:
   - Gesamtanzahl Schritte
-  - Anzahl "geteilt durch 2"-Operationen
-  - Anzahl "×3 + 1"-Operationen
+  - Anzahl "geteilt durch 2" Operationen
+  - Anzahl "×3 + 1" Operationen
 - **Graphische Darstellung** der Folge als Diagramm
 
 ## 🖼️ Beispielausgabe
@@ -30,7 +30,7 @@ Teilungen durch 2: 70 <br>
 ×3 + 1 Schritte: 41 <br>
 
 ## 📊 Diagramm Ausgabee
-Programm zeigt ein Liniendiagramm mit dem Verlauf der Folge der Schritte.
+Liniendiagramm mit dem Verlauf der Folge der Schritte.
 
 ## 🧑‍💻 Installation
 ```bash
