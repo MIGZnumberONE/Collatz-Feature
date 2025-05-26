@@ -34,7 +34,7 @@ Programm zeigt ein Liniendiagramm mit Verlauf der Folge der Schritte.
 
 ## 🧑‍💻 Installation
 ```bash
-git clone https://github.com/dein-benutzername/collatz-analyse.git
+git clone https://github.com/MIGZnumberONE/collatz-analyse.git
 cd collatz-analyse
 pip install matplotlib
 ```
