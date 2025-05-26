@@ -1,11 +1,11 @@
-🧠 Über das Collatz Problem <br>
+# 🔢 Collatz Analyse & Visualisierung (Python)
+Dieses Python-Projekt berechnet das 3n+1 Problem (auch bekannt als Collatz Folge)
+
+## 🧠 Über das Collatz Problem <br>
 "Nimm eine beliebige natürliche Zahl. <br>
 Wenn sie gerade ist, teile sie durch 2. <br>
 Wenn sie ungerade ist, multipliziere sie mit 3 und addiere 1. <br>
 Wiederhole diesen Vorgang und du wirst irgendwann bei 1 ankommen."
-
-# 🔢 Collatz Analyse & Visualisierung (Python)
-Dieses Python-Projekt berechnet das 3n+1 Problem (auch bekannt als Collatz Folge)
 
 ## 🚀 Funktionen
 - Berechnung Collatz Folge für beliebige Startzahl
